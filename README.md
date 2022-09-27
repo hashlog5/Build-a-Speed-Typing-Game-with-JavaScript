@@ -1,0 +1,1 @@
+This repo is from the [Build A Speed Typing Game With JavaScript - Tutorial](https://youtu.be/R-7eQIHRszQ) by [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) [@WebDevSimplified](https://github.com/WebDevSimplified).
